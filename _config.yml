@@ -1,7 +1,7 @@
 name: ZenMaps
 favicon: null
 layout_spectrum: 0.81726178037934
-typography_spectrum: 0.833051874069497
+typography_spectrum: 0.45067
 title: ZenMaps
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#F4F482'
   brandStrength: 0.3372715129517019
   lightness: 0.07589099649339914
-  saturation: 0.6850690701976418
+  saturation: 0
   rhythmicContrast: 0.09684258280321956
 purpose: []
