@@ -2,6 +2,7 @@ name: ZenMaps
 favicon: null
 layout_spectrum: 0.81726178037934
 typography_spectrum: 0.833051874069497
+title: ZenMaps
 cta:
   domain: null
   bucket: null
